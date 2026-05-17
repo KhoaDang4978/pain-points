@@ -21,3 +21,20 @@ Pain point: Manual noting/record keeping
 Signal: Owner doesn't see automation value yet
 Insight: Small single-location cafes may not 
 be the right target market
+
+
+Business 4 — Restaurant
+Pain point: Customer follow-up is manual 
+and collecting contacts feels intrusive
+Opportunity: Opt-in QR code system for 
+loyalty/feedback collection
+Tech comfort: Already using ordering app
+
+
+Business 4 — Small restaurant
+Pain point 1: Managing Google Maps and 
+social media replies requires entire crew
+Pain point 2: Daily opening/closing process 
+includes manual accounting and noting
+Tech comfort: Already using customer 
+data/follow-up app
