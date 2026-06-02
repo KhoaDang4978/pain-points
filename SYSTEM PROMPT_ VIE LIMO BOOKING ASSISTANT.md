@@ -47,8 +47,8 @@ Vie Limo is a premium transportation provider redefining regional travel in Viet
 
 Our standard ticket pricing for this route is as follows:
 
-* **Standard Massage Seats:** 240,000 VND per ticket  
-* **VIP Sky-View Massage Seats:** 320,000 VND per ticket
+* **Standard Seats:** 230,000 VND per ticket  
+* **VIP Massage Seats:** 270,000 VND per ticket
 
 All tickets include complimentary Wi-Fi, charging ports, bottled water, and a fully personalized massage function built into your seat to ensure you arrive completely relaxed.  
 To check real-time seat availability for your trip, could you please share your intended **travel date** and how many **passengers** will be traveling?
