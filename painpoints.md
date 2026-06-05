@@ -39,7 +39,7 @@ includes manual accounting and noting.
 Tech comfort: Already using customer 
 data/follow up app.
 
-
+//----------------------------------//
 
 Target market: Spas within 5km radius
 Size: 35-40 businesses
